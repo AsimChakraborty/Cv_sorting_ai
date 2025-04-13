@@ -25,5 +25,5 @@ The system is built with a decoupled architecture:
 *   Frontend displays analysis results for each CV.
 *   Aggregates results from all analyzed CVs.
 *   Saves the aggregated analysis results to an Excel file (`.xlsx`).
-*   Configurable AI behavior via the `backend/hr_prompt.txt` file.
+
 
