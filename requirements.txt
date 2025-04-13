@@ -1,0 +1,8 @@
+Flask>=2.0
+google-generativeai
+python-dotenv
+streamlit
+requests  # To call the Flask API
+pypdf2    # Still needed here to read the uploaded PDFs
+pandas
+openpyxl
